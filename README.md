@@ -18,11 +18,11 @@ I wrote Python scripts and Jupyter notebooks while self-studying, and I took som
 |----------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
 | Linear Regression    | [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/specializations/machine-learning-introduction)     |
 | Logistic Regression  | [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/specializations/machine-learning-introduction)     |
-| Naive Bayes Classifier | [Understanding Naive Bayes](https://youtu.be/O2L2Uv9pdDA?si=QIcVKqqfj54IGxd5)                                                            |
+| Naive Bayes Classifier | Wrote during AI course [Understanding Naive Bayes](https://youtu.be/O2L2Uv9pdDA?si=QIcVKqqfj54IGxd5)                                                            |
 | KNN Classifier       | [AssemblyAI - YouTube](https://www.youtube.com/watch?v=rTEtEy5o3X0)                                                                       |
 | Decision Trees       | [AssemblyAI - YouTube](https://youtu.be/NxEHSAfFlK8?list=PLcWfeUsAys2k_xub3mHks85sBHZvg24Jd)                                              |
 | Neural Networks      | [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction) |
-| K-Means Clustering   | [Understanding Unsupervised Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction) |
+| K-Means Clustering   | Wrote during Deep Learning course [Understanding Unsupervised Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction) |
 
 And of course, there are a lot of different algorithms that I implemented and learned but got lost or never made it to this repository. :(
 
